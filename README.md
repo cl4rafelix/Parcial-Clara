@@ -2,3 +2,6 @@
 
 #### Foto do Trabalho Parcial no Figma
 ![ft](./assets/ft-figma.png)
+
+#### Foto do Trabalho Parcial no Expo
+![ft](./assets/ft-expo.png)
